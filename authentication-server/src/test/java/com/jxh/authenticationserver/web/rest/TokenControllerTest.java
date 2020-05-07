@@ -22,9 +22,7 @@ import static org.springframework.test.web.servlet.request.MockMvcRequestBuilder
 import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.print;
 
 /**
- * @author: 林塬
- * @date: 2018/1/16
- * @description: 令牌单元测试
+ * 令牌单元测试
  */
 @Slf4j
 @RunWith(SpringRunner.class)
