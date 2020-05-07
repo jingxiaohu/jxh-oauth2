@@ -7,7 +7,7 @@
 - 较为详细的代码注释
 - ~~允许从授权服务器（适用于 JDBC、内存存储令牌）验证令牌~~ **该代码尚未完善，仅供参考**
 - 数据库 Schema : https://github.com/spring-projects/spring-security-oauth/blob/master/spring-security-oauth2/src/test/resources/schema.sql
-- Demo Git 地址：https://github.com/jingxiaohu/OAuth2-Demo
+- Demo Git 地址：https://github.com/jingxiaohu/jxh-oauth2
 
 ### Demo 流程：
 - 使用 OAuth2 密码授权方式提供令牌
