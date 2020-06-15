@@ -10,4 +10,27 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<artifactId>resource1-server</artifactId>
+
+	<dependencies>
+
+		<dependency>
+			<groupId>com.jxh</groupId>
+			<artifactId>oauth2-config</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.apache.httpcomponents/httpclient -->
+		<dependency>
+			<groupId>org.apache.httpcomponents</groupId>
+			<artifactId>httpclient</artifactId>
+			<version>4.5.12</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.hibernate.validator/hibernate-validator -->
+		<dependency>
+			<groupId>org.hibernate.validator</groupId>
+			<artifactId>hibernate-validator</artifactId>
+			<version>6.1.5.Final</version>
+		</dependency>
+
+
+	</dependencies>
 </project>
